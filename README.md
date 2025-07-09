@@ -14,6 +14,16 @@ A **Streamlit web app** to recommend BMTC (Bangalore Metropolitan Transport Corp
 - Simple and clean UI built with Streamlit
 
 ---
+## 🧪 Sample File
+
+Download and test with this file: [sample_bmtc.xlsx](sample_bmtc.xlsx)
+
+It includes sample routes like:
+- Majestic ➡️ Shivajinagar ➡️ Indiranagar
+- Indiranagar ➡️ Domlur ➡️ Koramangala
+- Koramangala ➡️ BTM Layout ➡️ Banashankari
+
+---
 
 ## 📂 Input Format
 
@@ -26,3 +36,5 @@ Each row in that column should be a **JSON array** of stops like:
   {"busstop": "Vijayanagar, Bangalore"},
   {"busstop": "Rajajinagar, Bangalore"}
 ]
+
+
