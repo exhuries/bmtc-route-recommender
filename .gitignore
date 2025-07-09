@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Environment
+.env
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter/IPython
+.ipynb_checkpoints
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Excel or data files
+*.xlsx
+*.xls
